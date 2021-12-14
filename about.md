@@ -1,18 +1,18 @@
 ---
-title: Closing the Gap
+title: LoveBridge ~ Closing the Gap
 layout: page
 description: About
 bodyClass: page-about
 ---
 
-The Peace Center provides a platform for churches and individuals to network and share ideas, people, money, studies, and space. This cross-denominational perspective helps churches connect to their surrounding christian church community as they share best practices, ideas for fundraising, volunteers, and resources.
+This cross-denominational perspective helps connect our christian church communities as they share best practices, ideas for fundraising, volunteers, and resources. We hope to help churches and organizations to share ideas, people, money, studies, and space.
 
-
-## Benefits of LoveBridge
-
-Examples of what bridging the christian community looks like:
+## Examples of what bridging the christian community looks like:
 
 - Public Calendar of Bible Studies in Ypsilanti
 - Defining spiritual gifts 
 - Serving our beloved Ypsilanti regardless of religious affiliation. 
-
+- Linking organizations, churches & people to create meaningful relationships
+- Startup ministries assistance
+- A non-affiliated meeting place for networking, counseling & etc.
+- Requests for christian communion regardless of denomination 
