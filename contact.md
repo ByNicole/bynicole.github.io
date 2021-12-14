@@ -13,4 +13,4 @@ What is on your mind? Questions, Prayer, Resources needed, Resources to give, Co
 | Thursday  | 7:00p - 9:00p   |
 | Friday    | Closed          |
 | Saturday  | 12:00p - 4:00p  |
-| Saturday  | Closed          |
+| Sunday    | 2:00p - 5:00p   |
