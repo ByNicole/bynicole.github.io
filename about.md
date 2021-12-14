@@ -1,5 +1,5 @@
 ---
-title: About
+title: Closing the Gap
 layout: page
 description: About
 bodyClass: page-about
@@ -8,26 +8,11 @@ bodyClass: page-about
 The Peace Center provides a platform for churches and individuals to network and share ideas, people, money, studies, and space. This cross-denominational perspective helps churches connect to their surrounding christian church community as they share best practices, ideas for fundraising, volunteers, and resources.
 
 
-## Postquam tamen
+## Benefits of LoveBridge
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Examples of what bridging the christian community looks like:
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+- Public Calendar of Bible Studies in Ypsilanti
+- Defining spiritual gifts 
+- Serving our beloved Ypsilanti regardless of religious affiliation. 
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
