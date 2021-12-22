@@ -5,13 +5,12 @@ featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
-
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+We are the hands and feet of Jesus no matter what denomination you practice and we are meant to gather. Where 2 or more brethern gather- God will be present.  Creating a safe place to exchange ideas, people, studies and more
+![Networking](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives 
 
-Financial accounting and financial reporting are often used as synonyms.
+What we have is not our own, making us Shepherds of God's gifts
 
 1. According to International Financial Reporting Standards: the objective of financial reporting is:
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
