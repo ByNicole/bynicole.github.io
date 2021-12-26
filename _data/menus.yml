@@ -2,6 +2,10 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Ypsilanti Bible Study Calendar"
+    url: "http://ypsilantibiblestudies.org"
+    weight: 3
+    taget: "_blank"
 
 footer:
   - name: "Home"
