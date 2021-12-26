@@ -3,6 +3,7 @@ title: LoveBridge ~ Closing the Gap
 layout: page
 description: About
 bodyClass: page-about
+published: false
 ---
 
 This cross-denominational perspective helps connect our christian church communities as they share best practices, ideas for fundraising, volunteers, and resources. We hope to help churches and organizations to share ideas, people, money, studies, and space.
