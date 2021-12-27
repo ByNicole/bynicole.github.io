@@ -8,8 +8,8 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# LoveBridge.
+# The Peace Center - love bridging.
 
-Our purpose is to build bridges between churches of different denominations to answer the call of love that we receive from Jesus.
+Our purpose is to build bridges between churches of different denominations to answer the call of love.
 
 Christians are better as a whole and our influence is greater when we stand together.
