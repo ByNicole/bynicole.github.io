@@ -10,6 +10,8 @@ show_call_box: true
 
 # Bringing churches together - Mending the Gap.
 
-My purpose is to build bridges between churches of different Christian denominations to answer our calling of brotherly love. "For everything God created is good, and nothing is to be rejected if it is received with thanksgiving, becasue it is consecrated by the word of God and prayer" 1 Tim 4:4
+My purpose is to build bridges between churches of different Christian denominations to show God's abundant love. What better way to reach the unsaved than to show them that we can unify and work together in these uncertain times. 
+
+"For everything God created is good, and nothing is to be rejected if it is received with thanksgiving, becasue it is consecrated by the word of God and prayer" 1 Tim 4:4
 
 
