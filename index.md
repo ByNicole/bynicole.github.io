@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Mending the Gap.
+# Churches Mending the Gap.
 
 My purpose is to build bridges between churches of different Christian denominations to show God's abundant love. What better way to reach the unsaved than to show them that we can unify and work together in these uncertain times. 
 
