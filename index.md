@@ -8,8 +8,8 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# The Peace Center - love bridging.
+# Bringing churches together - Mending the Gap.
 
-Our purpose is to build bridges between churches of different denominations to answer the call of love.
+My purpose is to build bridges between churches of different Christian denominations to answer our calling of brotherly love. "For everything God created is good, and nothing is to be rejected if it is received with thanksgiving, becasue it is consecrated by the word of God and prayer" 1 Tim 4:4
 
-Christians are better as a whole and our influence is greater when we stand together.
+
