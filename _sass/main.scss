@@ -1,0 +1,317 @@
+$base-color: #edd54b;
+$triad-color-1: adjust-hue($base-color, 60deg);
+$triad-color-2: adjust-hue($base-color, 120deg);
+
+$text-color: scale-color( $base-color, $lightness: -80% );
+
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+@mixin flexbox() {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+@mixin flex($values) {
+    -webkit-box-flex: $values;
+    -moz-box-flex:  $values;
+    -webkit-flex:  $values;
+    -ms-flex:  $values;
+    flex:  $values;
+}
+
+@mixin order($val) {
+    -webkit-box-ordinal-group: $val;
+    -moz-box-ordinal-group: $val;
+    -ms-flex-order: $val;
+    -webkit-order: $val;
+    order: $val;
+}
+
+html {
+    max-width: 70em;
+    margin: 0 auto;
+    padding: 0;
+    background: scale-color( $base-color, $lightness: 80% );
+    background-image: linear-gradient(rgba(255, 255, 255, .2) 0.1em, transparent 0.1em), linear-gradient(90deg, rgba(255, 255, 255, .2) 0.1em, transparent 0.1em);
+    background-size: 2em 2em;
+    color: $text-color;
+    font-size: 17px;
+
+    @media print {
+        background: none;
+        font-size: 12pt;
+    }
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 3rem 0 1rem 0;
+
+    &:first-child {
+        margin-top: 0;
+    }
+}
+h1 {
+    margin-top: 0;
+}
+p, aside, .highlighter-rouge {
+    margin: 1.5rem 0 1.5rem 0;
+
+    &:first-child {
+        margin-top: 0;
+    }
+}
+
+ul, ol {
+    margin: 1.5rem 0 1.5rem 0;
+    margin-left: 1.5rem;
+
+    li {
+        margin: 0 0 .7rem 0;
+    }
+
+    ul, ol {
+        margin: .7rem 0 .7rem 0;
+    }
+}
+
+h1 {
+    font-size: 1.8rem;
+}
+h2 {
+    font-size: 1.5rem;
+}
+
+time {
+    display: block;
+    margin: 0;
+}
+a {
+    color: scale-color( $triad-color-2, $lightness: 30% );
+
+    //&:visited {
+    //    color: $triad-color-2;
+    //}
+
+    &:hover {
+        color: scale-color( $triad-color-2, $lightness: 10% );
+    }
+}
+
+img {
+    max-width: 100%;
+}
+
+%nav-pipe-separator {
+    a {
+        text-decoration: none;
+        /* left padding .3em bigger to account for space character */
+        padding: 0 .5em 0 .8em;
+        margin: 0;
+        border-left: 1px solid $text-color;
+        color: $text-color;
+
+        &:first-child {
+            padding-left: 0;
+            border-left: 0;
+        }
+
+        &:hover {
+            text-decoration: underline;
+        }
+
+        &.active {
+            font-weight: bold;
+        }
+    }
+}
+
+html {
+    font-family: ui-sans-serif, sans-serif;
+}
+
+div.highlight {
+    padding: 0 1rem;
+    border: 1px solid $text-color;
+    border-radius: 0.3rem;
+    overflow: auto;
+
+    pre {
+
+        -moz-tab-size: 4;
+        -o-tab-size: 4;
+        tab-size: 4;
+
+        @media print {
+            overflow:visible;
+            white-space:pre-wrap;
+        }
+
+        /* @TODO: css code line numbering: https://stackoverflow.com/questions/37373127/css-numbering-using-nth-child */
+        /*
+        code {
+            counter-reset: line;
+
+            span:before {
+                counter-increment: line;
+                content: counter(line);
+                -webkit-user-select: none;
+            }
+        }
+         */
+    }
+}
+
+body {
+    padding: 0;
+    margin: 0 .5rem 1.5rem .5rem;
+
+    & > * {
+        background: #fff;
+        margin: 1.5rem 0;
+        padding: 1.5rem;
+        border-radius: 1.2rem;
+        box-shadow: .5rem .5rem .5rem scale-color( $base-color, $lightness: 60% );;
+
+        &:first-child {
+            margin-top: 0;
+            border-radius: 0 0 1.2rem 1.2rem;
+        }
+
+        @media print {
+            margin: 0;
+            padding: 0;
+            box-shadow: none;
+        }
+    }
+}
+
+header {
+
+    padding: .5rem 1.5rem 1rem;
+    @media print {
+        padding: 0;
+    }
+
+    a {
+        text-decoration: none;
+        color: $text-color;
+
+        &:visited {
+            color: $text-color;
+        }
+    }
+
+    > a {
+        font-size: 3rem;
+        margin-bottom: .2em;
+        display: block;
+    }
+
+    nav {
+        @extend %nav-pipe-separator;
+
+        @media print {
+            display: none;
+        }
+    }
+}
+
+section {
+    padding-bottom: .5em;
+
+    nav {
+        &.pipe-separator {
+            @extend %nav-pipe-separator;
+            margin-bottom: 3rem;
+        }
+        &.switch-view {
+            @include flexbox();
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 0.5rem 0.6rem;
+        }
+    }
+
+    article {
+        margin-bottom: 3rem;
+
+        &:last-child {
+            margin-bottom: 1.5rem;
+        }
+    }
+}
+
+article {
+    &.post {
+        aside {
+            &.article-tags-header {
+                @include flexbox();
+                flex-direction: row-reverse;
+                flex-wrap: wrap;
+                gap: 0.5rem 3rem;
+                justify-content: flex-end;
+                align-items: flex-start;
+
+                :last-child {
+                    margin-right: auto;
+                }
+            }
+        }
+    }
+
+    h2, h3, h4 {
+        a {
+            color: $text-color;
+            text-decoration: none;
+
+            &:hover {
+                text-decoration: underline;
+                color: $text-color;
+            }
+        }
+    }
+
+    ul.recipe {
+        list-style-type: none;
+    }
+}
+
+footer {
+
+    text-align: center;
+
+    p {
+        margin: 1rem 0;
+    }
+
+    .socials, .copyleft {
+        @include flexbox();
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+
+    .socials {
+        gap: 0.5rem 1.5rem;
+
+        a {
+            text-decoration: none;
+
+            i.fa {
+                color: #777;
+                margin-right: .3em;
+            }
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+
+    .copyleft {
+        gap: 0.5rem .8rem;
+    }
+}
