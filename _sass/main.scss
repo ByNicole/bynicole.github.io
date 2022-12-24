@@ -88,14 +88,14 @@ time {
     margin: 0;
 }
 a {
-    color: scale-color( $triad-color-2, $lightness: -10% );
+    color: scale-color( $triad-color-2, $lightness: -30% );
 
     //&:visited {
     //    color: $triad-color-2;
     //}
 
     &:hover {
-        color: scale-color( $triad-color-2, $lightness: -30% );
+        color: scale-color( $triad-color-2, $lightness: -50% );
     }
 }
 
