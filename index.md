@@ -33,8 +33,6 @@ Assistant Property Manager (Spice Tree, 551 units)
 - Process move in files and monies.
 - Assume manager responsibility when the current property manager is absent.
 
-
-
 The Benchmark Group, 07/2016 - 11/2021
 
 Community Manager (the meadows, 118 units) 2/1/2020 - present
