@@ -6,78 +6,20 @@ I'm Nicole,
 
 I'm so stressed I could barf.
 
+<hr>
+
 [www.breastcancer3day.org](www.breastcancer3day.org)
 
-
+<hr>
 
 **Skills & Abilities:** Entrata, MRI, Lead Management, AUM, rentpayment.com, Onesite, CERA, Yardi, Section 8 - MSHDA / PHC / CMA, Leasing Sales, Organization, Leadership, Scanning and Analyzing. Proficient in Microsoft Office and Google Suite.
 
- 
-
-**Work History:**
-
- 
-
 **Lightstone/Beacon Management, 11/2021 - Present**
-
 Assistant Property Manager (Spice Tree, 551 units)
 
-- Accounts receivable - handle deposits of 10k or more
-- Processing of notice to vacates and statements of deposits
-- Analyzing ledgers and making sure charges are set up properly, answering questions directly to residents.
-- Coordinate and counsel with our attorney when needed. Stay on top of delinquencies and process evictions if needed per the laws of our state. 
-- Delinquency was 13 % last summer and is now at 5%. It is consistently decreasing each month
-- Daily professional communication with and between residents, corporate accounting, property staff and vendors.
-- Help manage a staff of 10.
-
-- Process move in files and monies.
-- Assume manager responsibility when the current property manager is absent.
+- 
 
 The Benchmark Group, 07/2016 - 11/2021
-
-Community Manager (the meadows, 118 units) 2/1/2020 - present
-
-●   Wearer of many hats :)
-
-●   PROSPECTS - Daily leasing responsibilities / Reporting for occupancy, month-end, Renewals spreadsheets. Move in and move outs. 
-
-●   RESIDENT - Analyzing ledgers and making sure charges are set up properly.
-
-●   Process section 8 paperwork in a timely manner / price increase notifications / Adjustment Notifications / Inspection Notifications. Manage housing authority files and follow up to ensure the correct processes are being executed.
-
-●   Coordinate and counsel with our attorney when needed. Stay on top of delinquencies and process evictions if needed per the laws of our state. 
-
-●   CORPORATE - Manage communication with and between vendors / residents / corporate and contractors for construction projects and turns.
-
-●   Manage staff of 3. Fill in for all positions if needed. Manage the make ready board
-
-Assistant Community Manager (chestnut lake, 281 units) 2019-2020 & Assistant Community Manager (the meadows, 118 units) 2017-2019
-
-●   Daily leasing responsibilities – follow up, craigslist posts, service request entry, answering telephones and managing applications
-
-●   Reporting for occupancy, month-end reporting and renewal spreadsheets, resident notices. Move in and move outs. 
-
-●   Analyzing resident account ledgers and making sure charges are set up properly.
-
-●   Understand the eviction/attorney process of our state. file appropriate paperwork at appropriate time with the attorney.
-
-●   Manage housing authority files and follow up to ensure the correct processes are being executed.
-
- 
-
- 
-
-Full time Leasing Consultant (fairway trails, 234 units) 2016-2017
-
-Mezzanine (part-time) Leasing Consultant (fairway trails) 2016
-
-●    Daily leasing responsibilities – follow up, craigslist posts, answering telephones and managing applications
-
-●    service request entry and service team assistance when needed. 
-
-●    Move in and move outs. 
-
-●    Learn the eviction/attorney process of our state.
 
  
 

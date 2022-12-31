@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "#b00c9b",
+  "theme": "moonstone",
+  "baseFontSize": 18,
+  "textFontFamily": "Bahnschrift"
 }
