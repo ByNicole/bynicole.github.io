@@ -17,7 +17,6 @@
         <header>
             <a href="/">Nicole Putala</a>
             <nav>
-                <a href="/"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
                 <a href="/blog/"{% if page.url contains '/blog/' %} class="active"{% endif %}>Blog</a>
             </nav>
         </header>
