@@ -1,5 +1,5 @@
-Lightstone
-  Accounts receivable - handle deposits of 10k or more
+Accounts receivable - handle deposits of 10k or more
+
 * Processing of notice to vacates and statements of deposits
 - Analyzing ledgers and making sure charges are set up properly, answering questions directly to residents.
 - Coordinate and counsel with our attorney when needed. Stay on top of delinquencies and process evictions if needed per the laws of our state. 
@@ -8,3 +8,6 @@ Lightstone
 - Help manage a staff of 10.
 - Process move in files and monies.
 - Assume manager responsibility when the current property manager is absent.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQzODQ3ODE1MF19
+-->
