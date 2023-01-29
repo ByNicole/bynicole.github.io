@@ -6,6 +6,13 @@ I'm Nicole,
 
 I'm so stressed I could barf.
 
+{% for post in site.posts %}
+<article>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+</article>
+{% endfor %}
+
 <hr>
 
 [www.breastcancer3day.org](www.breastcancer3day.org)
@@ -80,3 +87,6 @@ Ambitions:
 ●    To be an example to my kids of a hard worker with a kind heart
 
 ●    One day, get my master’s degree - I’ve started and finished all my core classes.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk0ODM1MTIxM119
+-->
