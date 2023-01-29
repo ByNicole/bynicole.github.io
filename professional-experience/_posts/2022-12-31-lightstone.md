@@ -8,8 +8,9 @@ I worked with Beacon Management which is a daughter property of The Lightstone G
 - Daily professional communication with and between residents, corporate accounting, property staff and vendors.
 - Manage a staff of 10.
 - Process move in files and monies.
+- Final Accounting statements, charges and lease break / notice fee charges and security deposit checks.
 - Assume manager responsibility when the current property manager is absent.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzMTg3NjA0LC0xODQxNDk0OTQzLDY5OD
-gxMTYxXX0=
+eyJoaXN0b3J5IjpbMTk4MzkxOTM1NywtMTg0MTQ5NDk0Myw2OT
+g4MTE2MV19
 -->
