@@ -1,4 +1,4 @@
-I 
+I worked with Beacon Management which is a daughter property of The Lightstone Group.  I worked at Spice Tree for 13 months.  In this time frame I was the 
 
 - handle deposits of 10k or more
 - Processing of notice to vacates and statements of deposits
@@ -10,5 +10,5 @@ I
 - Process move in files and monies.
 - Assume manager responsibility when the current property manager is absent.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAxNjYzMCw2OTg4MTE2MV19
+eyJoaXN0b3J5IjpbLTIwNTcyNjcwNjYsNjk4ODExNjFdfQ==
 -->
