@@ -2,7 +2,7 @@
 title: Nicole Putala
 ---
 
-I'm so stressed I could barf, most of the time.  Here is my account of life. Please come back from time to time to get raw opinions on what is like to live life of an A
+I'm so stressed I could barf, most of the time.  Here is my account of life. Please come back from time to time to get raw opinions on what is like to live life of a women, who just wants to love others, and make a living while trying to be a great wife and ok mom and 
 
 {% for post in site.posts %}
 <article>
@@ -86,5 +86,5 @@ Ambitions:
 
 ●    One day, get my master’s degree - I’ve started and finished all my core classes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjgyMzQwNF19
+eyJoaXN0b3J5IjpbMTAzODg1NzE1M119
 -->
