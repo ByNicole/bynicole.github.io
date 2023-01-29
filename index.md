@@ -4,7 +4,7 @@ title: Nicole Putala
 
 I'm Nicole, 
 
-I'm so stressed I could barf.
+I'm so stressed I could barf. Change for standard paragraph about me.
 
 {% for post in site.posts %}
 <article>
@@ -88,5 +88,5 @@ Ambitions:
 
 ●    One day, get my master’s degree - I’ve started and finished all my core classes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODM1MTIxM119
+eyJoaXN0b3J5IjpbMTYzODA5NDQ4XX0=
 -->
