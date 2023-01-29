@@ -1,5 +1,6 @@
-Accounts receivable - handle deposits of 10k or more
+I 
 
+- handle deposits of 10k or more
 - Processing of notice to vacates and statements of deposits
 - Analyzing ledgers and making sure charges are set up properly, answering questions directly to residents.
 - Coordinate and counsel with our attorney when needed. Stay on top of delinquencies and process evictions if needed per the laws of our state. 
@@ -9,5 +10,5 @@ Accounts receivable - handle deposits of 10k or more
 - Process move in files and monies.
 - Assume manager responsibility when the current property manager is absent.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4ODExNjFdfQ==
+eyJoaXN0b3J5IjpbLTEzNDAxNjYzMCw2OTg4MTE2MV19
 -->
