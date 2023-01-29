@@ -16,10 +16,7 @@
     <body>
         <header>
             <a href="/">Nicole Putala</a>
-            <nav>
-                <a href="/blog/"{% if page.url contains '/blog/' %} class="active"{% endif %}>Blog</a>
-            </nav>
-        </header>
+                   </header>
         <section>
             {{ content }}
         </section>
@@ -41,3 +38,6 @@
         </footer>
     </body>
 </html>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA3MDM0NTUyMF19
+-->
