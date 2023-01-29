@@ -1,4 +1,4 @@
-I worked with Beacon Management which is a daughter property of The Lightstone Group.  I worked at Spice Tree for 13 months.  In this time frame I was the 
+I worked with Beacon Management which is a daughter property of The Lightstone Group.  I worked at Spice Tree for 13 months.  In this time frame I was the Assistant Manager but for most of the time I was the acting Manager due staffing changes.  At the time of acting manager the leasing manager and service manager had 
 
 - handle deposits of 10k or more
 - Processing of notice to vacates and statements of deposits
@@ -10,5 +10,5 @@ I worked with Beacon Management which is a daughter property of The Lightstone G
 - Process move in files and monies.
 - Assume manager responsibility when the current property manager is absent.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTcyNjcwNjYsNjk4ODExNjFdfQ==
+eyJoaXN0b3J5IjpbLTU5MTMyNjc4OCw2OTg4MTE2MV19
 -->
