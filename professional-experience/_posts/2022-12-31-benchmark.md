@@ -1,5 +1,3 @@
-#### Benchmark
-
 In 2016 I was hired by The Benchmark Group at Fairway Trails.  I started as a part-time leasing consultant.  I had never been in property management before in my life.  The closest I had come was when I  worked in real estate in my 20's and 30's.  I quickly became enthralled with my new job and couldn't get enough.  I became full time and not long after that became the Assistant manager.  Duties I had at Fairway Trails were as such:
 
 Community Manager (the meadows, 118 units) 2/1/2020 - present
@@ -26,3 +24,6 @@ Mezzanine (part-time) Leasing Consultant (fairway trails) 2016
 ●    service request entry and service team assistance when needed. 
 ●    Move in and move outs. 
 ●    Learn the eviction/attorney process of our state.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAwMjg0ODY3OF19
+-->
