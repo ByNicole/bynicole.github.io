@@ -12,10 +12,11 @@ layout: default
             {% endfor %}
         </div>
     </aside>
-    <h3>{{ page.title }}</h3>
+    <h1>{{ page.title }}</h1>
     *{{ page.date }}*
     {{ content }}
 </article>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk5MTkxMDgsMjc5NDE4NTU2XX0=
+eyJoaXN0b3J5IjpbMjc5NDE4NTU2LC0xNTk5OTE5MTA4LDI3OT
+QxODU1Nl19
 -->
