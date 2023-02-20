@@ -3,7 +3,6 @@ layout: default
 ---
 
 <h1>{{ page.title }}</h1>
-*{{ page.date }}*
 <nav class="pipe-separator switch-view">
     <div>Switch view to:</div>
     <div>
@@ -14,5 +13,5 @@ layout: default
 </nav>
 {{ content }}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA4NjM4MTddfQ==
+eyJoaXN0b3J5IjpbLTk4OTUzMDg2Nl19
 -->
