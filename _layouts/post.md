@@ -13,10 +13,10 @@ layout: default
         </div>
     </aside>
     <h1>{{ page.title }}</h1>
-    *{{ page.date }}*
+    *before{{ page.date }}*
     {{ content }}
 </article>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5NDE4NTU2LC0xNTk5OTE5MTA4LDI3OT
-QxODU1Nl19
+eyJoaXN0b3J5IjpbNzI3MzgxMjQzLDI3OTQxODU1NiwtMTU5OT
+kxOTEwOF19
 -->
