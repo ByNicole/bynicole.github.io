@@ -13,5 +13,9 @@ layout: default
         </div>
     </aside>
     <h1>{{ page.title }}</h1>
+    
     {{ content }}
 </article>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc4NDAxMjI3XX0=
+-->
