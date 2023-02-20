@@ -13,9 +13,9 @@ layout: default
         </div>
     </aside>
     <h1>{{ page.title }}</h1>
-    
+    *{{ page.date }}*
     {{ content }}
 </article>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDAxMjI3XX0=
+eyJoaXN0b3J5IjpbMjc5NDE4NTU2XX0=
 -->
