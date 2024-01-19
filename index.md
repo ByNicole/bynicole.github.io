@@ -30,8 +30,8 @@ Ambitions:
 
 ●    To be an example to my kids of a hard worker with a kind heart
 
-●    One day, get my master’s degree - I’ve started and finished all my core classes.
+●    One day, get my master’s degree - I’ve started and finished all my core classes.....I don't care about this anymore. I have too much school debt I still have to pay off.  Maybe then I can be more serious about this.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTc5NjM1LDM1ODMxMDY3OCwtMTEwNT
+eyJoaXN0b3J5IjpbNTE5MTAyNzUyLDM1ODMxMDY3OCwtMTEwNT
 IyMDE5Nyw3MDk2MjgwOSwyMTE2NDkwNzMwXX0=
 -->
